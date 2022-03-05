@@ -3,4 +3,12 @@
   <groupId>maven.case</groupId>
   <artifactId>airport</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  	<dependency>
+      <groupId>commons-configuration</groupId>
+      <artifactId>commons-configuration</artifactId>
+      <version>1.6</version>
+    </dependency>
+  </dependencies>
 </project>
